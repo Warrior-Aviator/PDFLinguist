@@ -1,0 +1,679 @@
+{
+    "1": [
+        {
+            "coordinates": [
+                311.1099853515625,
+                47.514129638671875,
+                315.8499755859375,
+                110.76227569580078
+            ],
+            "text": " \n \n \n \n",
+            "IniFontsize": 11.039999961853027,
+            "Color": 0,
+            "Character_count": 8,
+            "translated_text": " \n \n \n \n",
+            "translated_character_count": 8,
+            "Font_Size": 11.039999961853027
+        },
+        {
+            "coordinates": [
+                80.90399932861328,
+                111.71298217773438,
+                83.67288208007812,
+                152.2780303955078
+            ],
+            "text": " \n \n \n",
+            "IniFontsize": 9.960000038146973,
+            "Color": 0,
+            "Character_count": 6,
+            "translated_text": " \n \n \n",
+            "translated_character_count": 6,
+            "Font_Size": 9.960000038146973
+        },
+        {
+            "coordinates": [
+                87.86399841308594,
+                161.43199157714844,
+                90.93312072753906,
+                176.6009521484375
+            ],
+            "text": " \n",
+            "IniFontsize": 11.039999961853027,
+            "Color": 0,
+            "Character_count": 2,
+            "translated_text": " \n",
+            "translated_character_count": 2,
+            "Font_Size": 11.039999961853027
+        },
+        {
+            "coordinates": [
+                133.22000122070312,
+                208.12979125976562,
+                492.239990234375,
+                226.0793914794922
+            ],
+            "text": "Sub : Rescheduling of Examinations against Equivalent subjects \n",
+            "IniFontsize": 12.960000038146973,
+            "Color": 0,
+            "Character_count": 64,
+            "translated_text": "उप: समकक्ष विषयों के खिलाफ परीक्षाओं का पुनर्निर्धारण",
+            "translated_character_count": 53,
+            "Font_Size": 12.960000038146973
+        },
+        {
+            "coordinates": [
+                228.77000427246094,
+                223.04312133789062,
+                396.6999816894531,
+                241.10935974121094
+            ],
+            "text": "Examination, June/July 2024. \n",
+            "IniFontsize": 12.960000038146973,
+            "Color": 0,
+            "Character_count": 30,
+            "translated_text": "परीक्षा, जून/जुलाई 2024।",
+            "translated_character_count": 24,
+            "Font_Size": 12.960000038146973
+        },
+        {
+            "coordinates": [
+                124.81999969482422,
+                262.0431213378906,
+                524.6400146484375,
+                279.3317565917969
+            ],
+            "text": "Due to overlapping of mapped subjects as per equivalence, the semester end \n",
+            "IniFontsize": 12.960000038146973,
+            "Color": 0,
+            "Character_count": 76,
+            "translated_text": "समानता के अनुसार मैप किए गए विषयों के अतिव्यापी के कारण, सेमेस्टर अंत",
+            "translated_character_count": 69,
+            "Font_Size": 12.960000038146973
+        },
+        {
+            "coordinates": [
+                87.86399841308594,
+                284.0031433105469,
+                467.0199890136719,
+                301.2917785644531
+            ],
+            "text": "examinations, June/July 2024, for the following subjects of B.E./B.Tech \n",
+            "IniFontsize": 12.960000038146973,
+            "Color": 0,
+            "Character_count": 73,
+            "translated_text": "परीक्षा, जून/जुलाई 2024, निम्नलिखित विषयों के लिए B.E./B.Tech",
+            "translated_character_count": 61,
+            "Font_Size": 12.960000038146973
+        },
+        {
+            "coordinates": [
+                87.86399841308594,
+                305.9631042480469,
+                415.7799987792969,
+                323.2517395019531
+            ],
+            "text": "(2018 Scheme) are rescheduled. The details are as here below. \n",
+            "IniFontsize": 12.960000038146973,
+            "Color": 0,
+            "Character_count": 63,
+            "translated_text": "(2018 योजना) पुनर्निर्धारित किया जाता है।विवरण नीचे दिए गए हैं।",
+            "translated_character_count": 63,
+            "Font_Size": 12.960000038146973
+        },
+        {
+            "coordinates": [
+                75.86399841308594,
+                332.26641845703125,
+                93.59400177001953,
+                358.2803649902344
+            ],
+            "text": "SI. \nNo. \n",
+            "IniFontsize": 9.479999542236328,
+            "Color": 0,
+            "Character_count": 10,
+            "translated_text": "हाँ।\nनहीं।",
+            "translated_character_count": 10,
+            "Font_Size": 9.479999542236328
+        },
+        {
+            "coordinates": [
+                110.66000366210938,
+                328.54638671875,
+                390.30999755859375,
+                358.2803649902344
+            ],
+            "text": "Scheme \nSubject code \nScheduled \nDay / Date / Time \n",
+            "IniFontsize": 9.479999542236328,
+            "Color": 0,
+            "Character_count": 52,
+            "translated_text": "योजना\nविषय कोड\nअनुसूचित\nदिन / दिनांक / समय",
+            "translated_character_count": 42,
+            "Font_Size": 9.479999542236328
+        },
+        {
+            "coordinates": [
+                415.29998779296875,
+                329.50640869140625,
+                530.813720703125,
+                355.88037109375
+            ],
+            "text": "Rescheduled Day / Date / \nTime \n",
+            "IniFontsize": 9.479999542236328,
+            "Color": 0,
+            "Character_count": 32,
+            "translated_text": "पुनर्निर्धारित दिन / दिनांक /\nसमय",
+            "translated_character_count": 33,
+            "Font_Size": 9.776249527931213
+        },
+        {
+            "coordinates": [
+                75.86399841308594,
+                364.02490234375,
+                155.29998779296875,
+                385.1322326660156
+            ],
+            "text": "1. \nB.E. \n",
+            "IniFontsize": 11.039999961853027,
+            "Color": 0,
+            "Character_count": 10,
+            "translated_text": "1।\nहोना।",
+            "translated_character_count": 8,
+            "Font_Size": 11.039999961853027
+        },
+        {
+            "coordinates": [
+                110.66000366210938,
+                376.6448974609375,
+                172.97000122070312,
+                391.37225341796875
+            ],
+            "text": "2018 Scheme \n",
+            "IniFontsize": 11.039999961853027,
+            "Color": 0,
+            "Character_count": 13,
+            "translated_text": "2018 योजना",
+            "translated_character_count": 10,
+            "Font_Size": 11.039999961853027
+        },
+        {
+            "coordinates": [
+                184.00999450683594,
+                358.8648986816406,
+                296.3500061035156,
+                398.9322509765625
+            ],
+            "text": "18EC643- \nObject Oriented \nProgramming using C++ \n",
+            "IniFontsize": 11.039999961853027,
+            "Color": 0,
+            "Character_count": 50,
+            "translated_text": "18ec643-\nवस्तु के उन्मुख\nC ++ का उपयोग करके प्रोग्रामिंग",
+            "translated_character_count": 56,
+            "Font_Size": 12.364799957275391
+        },
+        {
+            "coordinates": [
+                311.8299865722656,
+                364.02490234375,
+                400.1800231933594,
+                391.37225341796875
+            ],
+            "text": "Friday, 30/08/2024 \n9.30am to 12.30pm \n",
+            "IniFontsize": 11.039999961853027,
+            "Color": 0,
+            "Character_count": 39,
+            "translated_text": "शुक्रवार, 30/08/2024\n9.30 बजे से 12.30 बजे तक",
+            "translated_character_count": 45,
+            "Font_Size": 12.7384614944458
+        },
+        {
+            "coordinates": [
+                415.29998779296875,
+                364.02490234375,
+                512.760009765625,
+                392.03466796875
+            ],
+            "text": "Monday, 09/09/2024 \n9.30am to 12.30pm \n",
+            "IniFontsize": 11.039999961853027,
+            "Color": 0,
+            "Character_count": 39,
+            "translated_text": "सोमवार, 09/09/2024\n9.30 बजे से 12.30 बजे तक",
+            "translated_character_count": 43,
+            "Font_Size": 12.172307650248209
+        },
+        {
+            "coordinates": [
+                75.86399841308594,
+                424.6448974609375,
+                86.90399932861328,
+                439.37225341796875
+            ],
+            "text": "2. \n",
+            "IniFontsize": 11.039999961853027,
+            "Color": 0,
+            "Character_count": 4,
+            "translated_text": "2।",
+            "translated_character_count": 2,
+            "Font_Size": 11.039999961853027
+        },
+        {
+            "coordinates": [
+                132.97999572753906,
+                404.7248840332031,
+                155.29998779296875,
+                419.4522399902344
+            ],
+            "text": "B.E. \n",
+            "IniFontsize": 11.039999961853027,
+            "Color": 0,
+            "Character_count": 6,
+            "translated_text": "होना।",
+            "translated_character_count": 5,
+            "Font_Size": 11.039999961853027
+        },
+        {
+            "coordinates": [
+                110.66000366210938,
+                417.32489013671875,
+                172.97000122070312,
+                432.05224609375
+            ],
+            "text": "2018 Scheme \n",
+            "IniFontsize": 11.039999961853027,
+            "Color": 0,
+            "Character_count": 13,
+            "translated_text": "2018 योजना",
+            "translated_character_count": 10,
+            "Font_Size": 11.039999961853027
+        },
+        {
+            "coordinates": [
+                184.00999450683594,
+                397.52490234375,
+                312.9350891113281,
+                439.25225830078125
+            ],
+            "text": "18EC644- \nDigital System Design using \nVerilog \n",
+            "IniFontsize": 11.039999961853027,
+            "Color": 0,
+            "Character_count": 48,
+            "translated_text": "18ec644-\nडिजिटल सिस्टम डिज़ाइन का उपयोग\nVerilog",
+            "translated_character_count": 47,
+            "Font_Size": 11.039999961853027
+        },
+        {
+            "coordinates": [
+                311.8299865722656,
+                404.7248840332031,
+                400.1800231933594,
+                432.05224609375
+            ],
+            "text": "Friday, 30/08/2024 \n9.30am to 12.30pm \n",
+            "IniFontsize": 11.039999961853027,
+            "Color": 0,
+            "Character_count": 39,
+            "translated_text": "शुक्रवार, 30/08/2024\n9.30 बजे से 12.30 बजे तक",
+            "translated_character_count": 45,
+            "Font_Size": 12.7384614944458
+        },
+        {
+            "coordinates": [
+                415.29998779296875,
+                403.9842529296875,
+                519.672119140625,
+                432.83465576171875
+            ],
+            "text": "Thursday, 12/09/2024 \n9.30am to 12.30pm \n",
+            "IniFontsize": 11.039999961853027,
+            "Color": 0,
+            "Character_count": 41,
+            "translated_text": "गुरुवार, 12/09/2024\n9.30 बजे से 12.30 बजे तक",
+            "translated_character_count": 44,
+            "Font_Size": 11.847804837110566
+        },
+        {
+            "coordinates": [
+                75.86399841308594,
+                446.6048889160156,
+                155.29998779296875,
+                463.25225830078125
+            ],
+            "text": "3. \nB.E. \n",
+            "IniFontsize": 11.039999961853027,
+            "Color": 0,
+            "Character_count": 10,
+            "translated_text": "3।\nहोना।",
+            "translated_character_count": 8,
+            "Font_Size": 11.039999961853027
+        },
+        {
+            "coordinates": [
+                110.66000366210938,
+                459.20489501953125,
+                172.97000122070312,
+                473.9322509765625
+            ],
+            "text": "2018 Scheme \n",
+            "IniFontsize": 11.039999961853027,
+            "Color": 0,
+            "Character_count": 13,
+            "translated_text": "2018 योजना",
+            "translated_character_count": 10,
+            "Font_Size": 11.039999961853027
+        },
+        {
+            "coordinates": [
+                184.00999450683594,
+                446.6048889160156,
+                296.1100158691406,
+                473.9322509765625
+            ],
+            "text": "18EE647- \nSensors and Transducers \n",
+            "IniFontsize": 11.039999961853027,
+            "Color": 0,
+            "Character_count": 35,
+            "translated_text": "18ee647-\nसेंसर और ट्रांसड्यूसर",
+            "translated_character_count": 30,
+            "Font_Size": 11.039999961853027
+        },
+        {
+            "coordinates": [
+                311.8299865722656,
+                446.6048889160156,
+                400.1800231933594,
+                473.9322509765625
+            ],
+            "text": "Friday, 30/08/2024 \n9.30am to 12.30pm \n",
+            "IniFontsize": 11.039999961853027,
+            "Color": 0,
+            "Character_count": 39,
+            "translated_text": "शुक्रवार, 30/08/2024\n9.30 बजे से 12.30 बजे तक",
+            "translated_character_count": 45,
+            "Font_Size": 12.7384614944458
+        },
+        {
+            "coordinates": [
+                415.29998779296875,
+                445.0242614746094,
+                513.5669555664062,
+                473.8746643066406
+            ],
+            "text": "Tuesday, 17/09/2024 \n9.30am to 12.30pm \n",
+            "IniFontsize": 11.039999961853027,
+            "Color": 0,
+            "Character_count": 40,
+            "translated_text": "मंगलवार, 17/09/2024\n9.30 बजे से 12.30 बजे तक",
+            "translated_character_count": 44,
+            "Font_Size": 12.14399995803833
+        },
+        {
+            "coordinates": [
+                75.86399841308594,
+                479.9648742675781,
+                155.29998779296875,
+                500.9322509765625
+            ],
+            "text": "4. \nB.E. \n",
+            "IniFontsize": 11.039999961853027,
+            "Color": 0,
+            "Character_count": 10,
+            "translated_text": "4।\nहोना।",
+            "translated_character_count": 8,
+            "Font_Size": 11.039999961853027
+        },
+        {
+            "coordinates": [
+                110.66000366210938,
+                492.56488037109375,
+                172.97000122070312,
+                507.292236328125
+            ],
+            "text": "2018 Scheme \n",
+            "IniFontsize": 11.039999961853027,
+            "Color": 0,
+            "Character_count": 13,
+            "translated_text": "2018 योजना",
+            "translated_character_count": 10,
+            "Font_Size": 11.039999961853027
+        },
+        {
+            "coordinates": [
+                184.00999450683594,
+                472.52490234375,
+                398.9800109863281,
+                500.9322509765625
+            ],
+            "text": "18CS644- \nAdvanced JAVA and J2EE Friday, 30/08/2024 \n",
+            "IniFontsize": 11.039999961853027,
+            "Color": 0,
+            "Character_count": 53,
+            "translated_text": "18CS644-\nउन्नत जावा और J2EE शुक्रवार, 30/08/2024",
+            "translated_character_count": 48,
+            "Font_Size": 11.039999961853027
+        },
+        {
+            "coordinates": [
+                311.8299865722656,
+                492.56488037109375,
+                400.1800231933594,
+                507.292236328125
+            ],
+            "text": "9.30am to 12.30pm \n",
+            "IniFontsize": 11.039999961853027,
+            "Color": 0,
+            "Character_count": 19,
+            "translated_text": "9.30 बजे से 12.30 बजे तक",
+            "translated_character_count": 24,
+            "Font_Size": 13.945263109709087
+        },
+        {
+            "coordinates": [
+                415.29998779296875,
+                479.9648742675781,
+                528.1199951171875,
+                507.95465087890625
+            ],
+            "text": "Wednesday, 18/09/2024 \n9.30am to 12.30pm \n",
+            "IniFontsize": 11.039999961853027,
+            "Color": 0,
+            "Character_count": 42,
+            "translated_text": "बुधवार, 18/09/2024\n9.30 बजे से 12.30 बजे तक",
+            "translated_character_count": 43,
+            "Font_Size": 11.302857103801909
+        },
+        {
+            "coordinates": [
+                75.86399841308594,
+                522.8348999023438,
+                155.29998779296875,
+                539.1222534179688
+            ],
+            "text": "5. \nB.E. \n",
+            "IniFontsize": 11.039999961853027,
+            "Color": 0,
+            "Character_count": 10,
+            "translated_text": "5।\nहोना।",
+            "translated_character_count": 8,
+            "Font_Size": 11.039999961853027
+        },
+        {
+            "coordinates": [
+                110.66000366210938,
+                535.4348754882812,
+                172.97000122070312,
+                550.1622314453125
+            ],
+            "text": "2018 Scheme \n",
+            "IniFontsize": 11.039999961853027,
+            "Color": 0,
+            "Character_count": 13,
+            "translated_text": "2018 योजना",
+            "translated_character_count": 10,
+            "Font_Size": 11.039999961853027
+        },
+        {
+            "coordinates": [
+                184.00999450683594,
+                522.8348999023438,
+                262.25,
+                550.1622314453125
+            ],
+            "text": "18IS645- \nSoftware Testing \n",
+            "IniFontsize": 11.039999961853027,
+            "Color": 0,
+            "Character_count": 28,
+            "translated_text": "18IS645-\nसॉफ़्टवेयर परीक्षण",
+            "translated_character_count": 27,
+            "Font_Size": 11.039999961853027
+        },
+        {
+            "coordinates": [
+                311.8299865722656,
+                522.8348999023438,
+                400.1800231933594,
+                550.1622314453125
+            ],
+            "text": "Friday, 30/08/2024 \n9.30am to 12.30pm \n",
+            "IniFontsize": 11.039999961853027,
+            "Color": 0,
+            "Character_count": 39,
+            "translated_text": "शुक्रवार, 30/08/2024\n9.30 बजे से 12.30 बजे तक",
+            "translated_character_count": 45,
+            "Font_Size": 12.7384614944458
+        },
+        {
+            "coordinates": [
+                415.29998779296875,
+                522.8348999023438,
+                519.6000366210938,
+                550.8246459960938
+            ],
+            "text": "Thursday, 19/09/2024 \n9.30am to 12.30pm \n",
+            "IniFontsize": 11.039999961853027,
+            "Color": 0,
+            "Character_count": 41,
+            "translated_text": "गुरुवार, 19/09/2024\n9.30 बजे से 12.30 बजे तक",
+            "translated_character_count": 44,
+            "Font_Size": 11.847804837110566
+        },
+        {
+            "coordinates": [
+                72.86399841308594,
+                548.593017578125,
+                463.78887939453125,
+                564.83203125
+            ],
+            "text": "The contents of this circular may kindly be brought to the notice of all the concerned. \n \n",
+            "IniFontsize": 12.0,
+            "Color": 0,
+            "Character_count": 91,
+            "translated_text": "इस परिपत्र की सामग्री को सभी संबंधितों के नोटिस में लाया जा सकता है।",
+            "translated_character_count": 68,
+            "Font_Size": 12.0
+        },
+        {
+            "coordinates": [
+                431.9800109863281,
+                566.9920043945312,
+                455.2091369628906,
+                582.1609497070312
+            ],
+            "text": "Sd/- \n",
+            "IniFontsize": 11.039999961853027,
+            "Color": 0,
+            "Character_count": 6,
+            "translated_text": "एसडी/-",
+            "translated_character_count": 6,
+            "Font_Size": 11.039999961853027
+        },
+        {
+            "coordinates": [
+                386.9800109863281,
+                582.592041015625,
+                496.5091247558594,
+                597.760986328125
+            ],
+            "text": "Registrar (Evaluation) \n",
+            "IniFontsize": 11.039999961853027,
+            "Color": 0,
+            "Character_count": 24,
+            "translated_text": "रजिस्ट्रार (मूल्यांकन)",
+            "translated_character_count": 22,
+            "Font_Size": 11.039999961853027
+        },
+        {
+            "coordinates": [
+                72.86399841308594,
+                595.3148803710938,
+                90.6240005493164,
+                610.042236328125
+            ],
+            "text": "To, \n",
+            "IniFontsize": 11.039999961853027,
+            "Color": 0,
+            "Character_count": 5,
+            "translated_text": "को,",
+            "translated_character_count": 3,
+            "Font_Size": 11.039999961853027
+        },
+        {
+            "coordinates": [
+                80.90399932861328,
+                608.1549072265625,
+                486.94000244140625,
+                622.8822631835938
+            ],
+            "text": "The Principals of all the affiliated engineering colleges and constituent engineering college. \n",
+            "IniFontsize": 11.039999961853027,
+            "Color": 0,
+            "Character_count": 96,
+            "translated_text": "सभी संबद्ध इंजीनियरिंग कॉलेजों और संविधान इंजीनियरिंग कॉलेज के प्रिंसिपल।",
+            "translated_character_count": 73,
+            "Font_Size": 11.039999961853027
+        },
+        {
+            "coordinates": [
+                72.86399841308594,
+                627.4359130859375,
+                480.54998779296875,
+                692.01806640625
+            ],
+            "text": "c.w.c.: \n1. The Hon'ble Vice Chancellor, through the Secretary to VC, VTU, Belagavi, for kind information. \n2. The Registrar, VTU, Belagavi, for kind information. \n3. The Regional Directors, R.O. Bengaluru / Belagavi / Kalaburagi /Mysuru, for kind information. \n4. The Director, ITISMU, VTU Belagavi, for information and needful. \n",
+            "IniFontsize": 9.960000038146973,
+            "Color": 0,
+            "Character_count": 331,
+            "translated_text": "C.W.C।:\n1। माननीय कुलपति, सचिव के माध्यम से वीसी, वीटीयू, बेलगावी के माध्यम से, दयालु जानकारी के लिए।\n2। रजिस्ट्रार, वीटीयू, बेलगावी, दयालु जानकारी के लिए।\n3। क्षेत्रीय निदेशक, आर.ओ.बेंगलुरु / बेलगावी / कलाबुरागी / मैसुरु, दयालु जानकारी के लिए।\n4। निर्देशक, इटिस्मु, वीटू बेलगवी, सूचना और आवश्यक के लिए।",
+            "translated_character_count": 303,
+            "Font_Size": 9.960000038146973
+        },
+        {
+            "coordinates": [
+                516.3599853515625,
+                726.4920043945312,
+                519.4290771484375,
+                741.6609497070312
+            ],
+            "text": " \n",
+            "IniFontsize": 11.039999961853027,
+            "Color": 0,
+            "Character_count": 2,
+            "translated_text": " \n",
+            "translated_character_count": 2,
+            "Font_Size": 11.039999961853027
+        },
+        {
+            "coordinates": [
+                396.94000244140625,
+                745.2450561523438,
+                400.69000244140625,
+                765.2550659179688
+            ],
+            "text": " \n",
+            "IniFontsize": 15.0,
+            "Color": 0,
+            "Character_count": 2,
+            "translated_text": " \n",
+            "translated_character_count": 2,
+            "Font_Size": 15.0
+        }
+    ]
+}
